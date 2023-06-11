@@ -1,6 +1,6 @@
 # Data_analysis
 
-#[Project1: HR Employee Attrition Analysis ] (https://github.com/Shimaamohamed96)
+# [Project1: HR Employee Attrition Analysis ] (https://github.com/Shimaamohamed96)
 This is an Employee Attrition Analytics project
 Employee attrition analytics is specifically focused on identifying why employees voluntarily leave, what might have prevented them from leaving, and how we can use data to predict attrition risk. Most importantly, this type of employee predictive analytics can be used to help organizations understand and design the interventions that will be most effective in reducing unwanted attrition.
 *Dataset has quantative and categorical data with variables such as "Business Travel", "Attrition", "Education"
