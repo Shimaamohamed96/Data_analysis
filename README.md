@@ -14,5 +14,7 @@ Employee attrition analytics is specifically focused on identifying why employee
 
 3.Data Visualizaing (Dashboard)
 
+![alt text](image.jpg)
+
 
 
